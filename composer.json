@@ -1,5 +1,5 @@
 {
-  "name": "jordivega/prova",
+  "name": "alumne/mp09_romerosteven",
   "type": "project",
   "autoload": {
     "classmap": [
@@ -11,8 +11,8 @@
   },
   "authors": [
     {
-      "name": "jordivega",
-      "email": "jordivega@iesebre.com"
+      "name": "alumne",
+      "email": "mromero1@iesebre.com"
     }
   ],
   "require": {
